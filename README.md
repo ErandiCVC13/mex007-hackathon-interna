@@ -72,3 +72,6 @@ En la parte inferior del menú se encuentran las opciones que pueden ser visitad
 - [Evaluz Vazquez Espinosa](https://github.com/eve2921/)
 - [Mitzi Yolotzin Olvera Castillo](https://github.com/MitziYolotzin)
 - [Andrea Cruz Hernández](https://github.com/AndieCruz)
+
+## Desarrollo de actividades y planificación
+[Documento con desarrollo de actividades y planificación](https://docs.google.com/document/d/1Wxq_1l3a0EahS1CIQaElOAWLcAugNiv07e7NlDRwNII/edit)
